@@ -1,0 +1,46 @@
+{
+  "name": "Stackblitz",
+  "isDirectory": true,
+  "children": [
+    {
+      "name": "public",
+      "isDirectory": true,
+      "children": [
+        {
+          "name": "index.html",
+          "isDirectory": false
+        }
+      ]
+    },
+    {
+      "name": "src",
+      "isDirectory": true,
+      "children": [
+        {
+          "name": "components",
+          "isDirectory": true,
+          "children": [{ "name": "Explorer.jsx", "isDirectory": false }]
+        },
+        {
+          "name": "lib",
+          "isDirectory": true,
+          "children": [{ "name": "data.json", "isDirectory": false }]
+        },
+        {
+          "name": "App.js",
+          "isDirectory": false
+        },
+        { "name": "index.js", "isDirectory": false },
+        { "name": "style.css", "isDirectory": false }
+      ]
+    },
+    {
+      "name": "package.json",
+      "isDirectory": false
+    },
+    {
+      "name": "yarn.lock",
+      "isDirectory": false
+    }
+  ]
+}
